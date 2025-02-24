@@ -178,3 +178,4 @@ C:\Users\Dell Inspiron 3505\OneDrive\Desktop\N DU PROGRAMS\OnlineClothingStoreAP
 C:\Users\Dell Inspiron 3505\OneDrive\Desktop\N DU PROGRAMS\OnlineClothingStoreAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\Dell Inspiron 3505\OneDrive\Desktop\N DU PROGRAMS\OnlineClothingStoreAPI\obj\Debug\net8.0\staticwebassets\msbuild.OnlineClothingStoreAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\Dell Inspiron 3505\OneDrive\Desktop\N DU PROGRAMS\OnlineClothingStoreAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Dell Inspiron 3505\OneDrive\Desktop\N DU PROGRAMS\OnlineClothingStoreAPI\obj\Debug\net8.0\OnlineClothingStoreAPI.sourcelink.json

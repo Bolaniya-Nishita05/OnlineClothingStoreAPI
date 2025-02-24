@@ -21,6 +21,7 @@ namespace OnlineClothingStoreAPI
             builder.Services.AddScoped<ProductRepository>();
             builder.Services.AddScoped<UserRepository>();
             builder.Services.AddScoped<FavouriteRepository>();
+            builder.Services.AddScoped<DashboardRepository>();
 
             builder.Services.AddCors(options =>
             {

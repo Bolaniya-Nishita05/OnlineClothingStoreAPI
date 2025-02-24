@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{7A937E88-F3BF-4971-9A21-6BE7EC145561}|OnlineClothingStoreAPI.csproj|solutionrelative:data\\favouriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A937E88-F3BF-4971-9A21-6BE7EC145561}|OnlineClothingStoreAPI.csproj|c:\\users\\dell inspiron 3505\\onedrive\\desktop\\n du programs\\onlineclothingstoreapi\\controllers\\favouritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A937E88-F3BF-4971-9A21-6BE7EC145561}|OnlineClothingStoreAPI.csproj|solutionrelative:controllers\\favouritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A937E88-F3BF-4971-9A21-6BE7EC145561}|OnlineClothingStoreAPI.csproj|c:\\users\\dell inspiron 3505\\onedrive\\desktop\\n du programs\\onlineclothingstoreapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A937E88-F3BF-4971-9A21-6BE7EC145561}|OnlineClothingStoreAPI.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A937E88-F3BF-4971-9A21-6BE7EC145561}|OnlineClothingStoreAPI.csproj|c:\\users\\dell inspiron 3505\\onedrive\\desktop\\n du programs\\onlineclothingstoreapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A937E88-F3BF-4971-9A21-6BE7EC145561}|OnlineClothingStoreAPI.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A937E88-F3BF-4971-9A21-6BE7EC145561}|OnlineClothingStoreAPI.csproj|c:\\users\\dell inspiron 3505\\onedrive\\desktop\\n du programs\\onlineclothingstoreapi\\data\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A937E88-F3BF-4971-9A21-6BE7EC145561}|OnlineClothingStoreAPI.csproj|solutionrelative:data\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A937E88-F3BF-4971-9A21-6BE7EC145561}|OnlineClothingStoreAPI.csproj|c:\\users\\dell inspiron 3505\\onedrive\\desktop\\n du programs\\onlineclothingstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A937E88-F3BF-4971-9A21-6BE7EC145561}|OnlineClothingStoreAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A937E88-F3BF-4971-9A21-6BE7EC145561}|OnlineClothingStoreAPI.csproj|c:\\users\\dell inspiron 3505\\onedrive\\desktop\\n du programs\\onlineclothingstoreapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A937E88-F3BF-4971-9A21-6BE7EC145561}|OnlineClothingStoreAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A937E88-F3BF-4971-9A21-6BE7EC145561}|OnlineClothingStoreAPI.csproj|c:\\users\\dell inspiron 3505\\onedrive\\desktop\\n du programs\\onlineclothingstoreapi\\models\\dashboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A937E88-F3BF-4971-9A21-6BE7EC145561}|OnlineClothingStoreAPI.csproj|solutionrelative:models\\dashboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,35 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell Inspiron 3505\\OneDrive\\Desktop\\N DU PROGRAMS\\OnlineClothingStoreAPI\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\Dell Inspiron 3505\\OneDrive\\Desktop\\N DU PROGRAMS\\OnlineClothingStoreAPI\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Controllers\\OrderController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAqwCkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T05:06:00.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FavouriteController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell Inspiron 3505\\OneDrive\\Desktop\\N DU PROGRAMS\\OnlineClothingStoreAPI\\Controllers\\FavouriteController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FavouriteController.cs",
-              "ToolTip": "C:\\Users\\Dell Inspiron 3505\\OneDrive\\Desktop\\N DU PROGRAMS\\OnlineClothingStoreAPI\\Controllers\\FavouriteController.cs",
-              "RelativeToolTip": "Controllers\\FavouriteController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAQwDsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T05:05:57.435Z"
             },
             {
               "$type": "Document",
@@ -68,10 +44,22 @@
               "RelativeDocumentMoniker": "Data\\FavouriteRepository.cs",
               "ToolTip": "C:\\Users\\Dell Inspiron 3505\\OneDrive\\Desktop\\N DU PROGRAMS\\OnlineClothingStoreAPI\\Data\\FavouriteRepository.cs",
               "RelativeToolTip": "Data\\FavouriteRepository.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAkwHAAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T04:52:38.94Z",
+              "WhenOpened": "2025-02-17T14:47:44.101Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Inspiron 3505\\OneDrive\\Desktop\\N DU PROGRAMS\\OnlineClothingStoreAPI\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Dell Inspiron 3505\\OneDrive\\Desktop\\N DU PROGRAMS\\OnlineClothingStoreAPI\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:42:17.341Z"
             },
             {
               "$type": "Document",
@@ -81,21 +69,33 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Dell Inspiron 3505\\OneDrive\\Desktop\\N DU PROGRAMS\\OnlineClothingStoreAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T11:08:42.435Z"
+              "WhenOpened": "2025-02-17T07:30:19.185Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell Inspiron 3505\\OneDrive\\Desktop\\N DU PROGRAMS\\OnlineClothingStoreAPI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Dell Inspiron 3505\\OneDrive\\Desktop\\N DU PROGRAMS\\OnlineClothingStoreAPI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAQwIcAAAANAAAAAAAAAA==",
+              "Title": "DashboardModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Inspiron 3505\\OneDrive\\Desktop\\N DU PROGRAMS\\OnlineClothingStoreAPI\\Models\\DashboardModel.cs",
+              "RelativeDocumentMoniker": "Models\\DashboardModel.cs",
+              "ToolTip": "C:\\Users\\Dell Inspiron 3505\\OneDrive\\Desktop\\N DU PROGRAMS\\OnlineClothingStoreAPI\\Models\\DashboardModel.cs",
+              "RelativeToolTip": "Models\\DashboardModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T16:13:44.999Z"
+              "WhenOpened": "2025-02-17T03:42:13.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Inspiron 3505\\OneDrive\\Desktop\\N DU PROGRAMS\\OnlineClothingStoreAPI\\Data\\DashboardRepository.cs",
+              "RelativeDocumentMoniker": "Data\\DashboardRepository.cs",
+              "ToolTip": "C:\\Users\\Dell Inspiron 3505\\OneDrive\\Desktop\\N DU PROGRAMS\\OnlineClothingStoreAPI\\Data\\DashboardRepository.cs",
+              "RelativeToolTip": "Data\\DashboardRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwH8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:39:43.095Z"
             }
           ]
         }
