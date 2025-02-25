@@ -815,6 +815,14 @@
           "totalAmount": {
             "type": "number",
             "format": "double"
+          },
+          "size": {
+            "type": "string",
+            "nullable": true
+          },
+          "color": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -857,14 +865,6 @@
           "stockQuantity": {
             "type": "integer",
             "format": "int32"
-          },
-          "size": {
-            "type": "string",
-            "nullable": true
-          },
-          "color": {
-            "type": "string",
-            "nullable": true
           },
           "imgUrl": {
             "type": "string",

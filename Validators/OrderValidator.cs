@@ -22,6 +22,14 @@ namespace OnlineClothingStoreAPI.Validators
             RuleFor(o => o.TotalAmount)
                 .NotNull()
                 .NotEmpty();
+
+            RuleFor(o => o.Size)
+                .NotNull()
+                .NotEmpty();
+
+            RuleFor(o => o.Color)
+                .NotNull()
+                .NotEmpty();
         }
     }
 }

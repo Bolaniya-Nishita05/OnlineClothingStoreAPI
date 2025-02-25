@@ -43,8 +43,6 @@ namespace OnlineClothingStoreAPI.Data
                 product.BrandName = Convert.ToString(reader["BrandName"]);
                 product.Price = Convert.ToDecimal(reader["Price"]);
                 product.StockQuantity = Convert.ToInt32(reader["StockQuantity"]);
-                product.Size = reader["Size"] != DBNull.Value ? Convert.ToString(reader["Size"]) : "";
-                product.Color = Convert.ToString(reader["Color"]);
                 product.ImgUrl = Convert.ToString(reader["ImgUrl"]);
                 product.IsActive = Convert.ToInt32(reader["IsActive"]);
 
@@ -83,8 +81,6 @@ namespace OnlineClothingStoreAPI.Data
                 product.BrandID = Convert.ToInt32(reader["BrandID"]);
                 product.Price = Convert.ToDecimal(reader["Price"]);
                 product.StockQuantity = Convert.ToInt32(reader["StockQuantity"]);
-                product.Size = Convert.ToString(reader["Size"]);
-                product.Color = Convert.ToString(reader["Color"]);
                 product.ImgUrl = Convert.ToString(reader["ImgUrl"]);
                 product.IsActive = Convert.ToInt32(reader["IsActive"]);
             }
@@ -112,8 +108,6 @@ namespace OnlineClothingStoreAPI.Data
             objCmd.Parameters.AddWithValue("@BrandID", product.BrandID);
             objCmd.Parameters.AddWithValue("@Price", product.Price);
             objCmd.Parameters.AddWithValue("@StockQuantity", product.StockQuantity);
-            objCmd.Parameters.AddWithValue("@Size", product.Size);
-            objCmd.Parameters.AddWithValue("@Color", product.Color);
             objCmd.Parameters.AddWithValue("@ImgUrl", product.ImgUrl);
 
             var rowsAffected = objCmd.ExecuteNonQuery();
@@ -141,8 +135,6 @@ namespace OnlineClothingStoreAPI.Data
             objCmd.Parameters.AddWithValue("@BrandID", product.BrandID);
             objCmd.Parameters.AddWithValue("@Price", product.Price);
             objCmd.Parameters.AddWithValue("@StockQuantity", product.StockQuantity);
-            objCmd.Parameters.AddWithValue("@Size", product.Size);
-            objCmd.Parameters.AddWithValue("@Color", product.Color);
             objCmd.Parameters.AddWithValue("@ImgUrl", product.ImgUrl);
             objCmd.Parameters.AddWithValue("@IsActive", product.IsActive);
 
@@ -200,8 +192,6 @@ namespace OnlineClothingStoreAPI.Data
                 product.BrandName = Convert.ToString(reader["BrandName"]);
                 product.Price = Convert.ToDecimal(reader["Price"]);
                 product.StockQuantity = Convert.ToInt32(reader["StockQuantity"]);
-                product.Size = Convert.ToString(reader["Size"]);
-                product.Color = Convert.ToString(reader["Color"]);
                 product.ImgUrl = Convert.ToString(reader["ImgUrl"]);
                 product.IsActive = Convert.ToInt32(reader["IsActive"]);
 
@@ -241,8 +231,6 @@ namespace OnlineClothingStoreAPI.Data
                 product.BrandName = Convert.ToString(reader["BrandName"]);
                 product.Price = Convert.ToDecimal(reader["Price"]);
                 product.StockQuantity = Convert.ToInt32(reader["StockQuantity"]);
-                product.Size = Convert.ToString(reader["Size"]);
-                product.Color = Convert.ToString(reader["Color"]);
                 product.ImgUrl = Convert.ToString(reader["ImgUrl"]);
                 product.IsActive = Convert.ToInt32(reader["IsActive"]);
 

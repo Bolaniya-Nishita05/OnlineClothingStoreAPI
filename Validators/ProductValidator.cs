@@ -32,15 +32,6 @@ namespace OnlineClothingStoreAPI.Validators
             RuleFor(p => p.StockQuantity)
                 .NotNull()
                 .NotEmpty();
-
-            RuleFor(p => p.Size)
-                .NotNull()
-                .NotEmpty()
-                .MaximumLength(3);
-
-            RuleFor(p => p.Color)
-                .NotNull()
-                .NotEmpty();
         }
     }
 }

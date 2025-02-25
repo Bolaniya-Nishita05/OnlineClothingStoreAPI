@@ -41,6 +41,8 @@ namespace OnlineClothingStoreAPI.Data
                 order.UserName = Convert.ToString(reader["UserName"]);
                 order.Quantity = Convert.ToInt32(reader["Quantity"]);
                 order.TotalAmount = Convert.ToDecimal(reader["TotalAmount"]);
+                order.Size = Convert.ToString(reader["Size"]);
+                order.Color = Convert.ToString(reader["Color"]);
 
                 orders.Add(order);
             }
@@ -73,6 +75,8 @@ namespace OnlineClothingStoreAPI.Data
                 order.UserID = Convert.ToInt32(reader["UserID"]);
                 order.Quantity = Convert.ToInt32(reader["Quantity"]);
                 order.TotalAmount = Convert.ToDecimal(reader["TotalAmount"]);
+                order.Size = Convert.ToString(reader["Size"]);
+                order.Color = Convert.ToString(reader["Color"]);
             }
 
             conn.Close();
@@ -96,6 +100,8 @@ namespace OnlineClothingStoreAPI.Data
             objCmd.Parameters.AddWithValue("@UserID", order.UserID);
             objCmd.Parameters.AddWithValue("@Quantity", order.Quantity);
             objCmd.Parameters.AddWithValue("@TotalAmount", order.TotalAmount);
+            objCmd.Parameters.AddWithValue("@Size",order.Size);
+            objCmd.Parameters.AddWithValue("@Color", order.Color);
 
             var rowsAffected = objCmd.ExecuteNonQuery();
             conn.Close();
@@ -120,6 +126,8 @@ namespace OnlineClothingStoreAPI.Data
             objCmd.Parameters.AddWithValue("@UserID", order.UserID);
             objCmd.Parameters.AddWithValue("@Quantity", order.Quantity);
             objCmd.Parameters.AddWithValue("@TotalAmount", order.TotalAmount);
+            objCmd.Parameters.AddWithValue("@Size", order.Size);
+            objCmd.Parameters.AddWithValue("@Color", order.Color);
 
             var rowsAffected = objCmd.ExecuteNonQuery();
             conn.Close();
@@ -175,6 +183,9 @@ namespace OnlineClothingStoreAPI.Data
                 order.UserName = Convert.ToString(reader["UserName"]);
                 order.Quantity = Convert.ToInt32(reader["Quantity"]);
                 order.TotalAmount = Convert.ToDecimal(reader["TotalAmount"]);
+                order.Size = Convert.ToString(reader["Size"]);
+                order.Color = Convert.ToString(reader["Color"]);
+
 
                 orders.Add(order);
             }
